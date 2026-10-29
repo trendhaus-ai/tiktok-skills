@@ -8,6 +8,10 @@ Agent skills that turn your AI into a TikTok researcher: break down any video, f
 
 ---
 
+## See it in action
+
+<a href="https://www.youtube.com/watch?v=j-efl4bMVOg"><img src="https://img.youtube.com/vi/j-efl4bMVOg/maxresdefault.jpg" width="640" alt="Video: your AI can watch TikToks now"></a>
+
 ## Why
 
 Paste a TikTok link into ChatGPT or Claude and it can't watch it. With Trendhaus connected, your AI gets the transcript, on-screen text, a scene-by-scene breakdown, the hook, the sound, the comments and how the post did against the creator's usual numbers. These skills package that into repeatable workflows.
@@ -55,6 +59,8 @@ Public TikTok data only: posts, creators, comments, sounds, hashtags and the pub
 - Website: [trendhaus.ai](https://trendhaus.ai/?ref=github)
 - Docs: [trendhaus.ai/docs](https://trendhaus.ai/docs?ref=github)
 - Can ChatGPT watch TikTok videos? [How it works](https://trendhaus.ai/can-chatgpt-watch-tiktok-videos)
+- TikTok trends this week, with first-seen dates: [trendhaus.ai/tiktok-trends](https://trendhaus.ai/tiktok-trends)
+- Hosted MCP server setup and recipes: [trendhaus-ai/tiktok-mcp](https://github.com/trendhaus-ai/tiktok-mcp)
 - Support: team@trendhaus.ai
 
-Not affiliated with TikTok. Skills are MIT licensed; using the MCP server requires a Trendhaus account.
+Not affiliated with TikTok. Skills are MIT licensed; using the MCP server requires a Trendhaus account ([start free with 100 actions](https://trendhaus.ai/start?ref=github)).
