@@ -31,12 +31,12 @@ Paste a TikTok link into ChatGPT or Claude and it can't watch it. With Trendhaus
 
 - **Claude Code**
   ```
-  /plugin marketplace add trendhaus/tiktok-skills
+  /plugin marketplace add trendhaus-ai/tiktok-skills
   /plugin install trendhaus
   ```
 - **Any agent that supports Agent Skills** (Cursor, Codex, Gemini CLI, and others)
   ```
-  npx skills add trendhaus/tiktok-skills
+  npx skills add trendhaus-ai/tiktok-skills
   ```
 - **Claude.ai / ChatGPT:** connect Trendhaus as a connector ([docs](https://trendhaus.ai/docs?ref=github)); the skills folder can also be uploaded as custom skills.
 
