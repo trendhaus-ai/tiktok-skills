@@ -23,6 +23,12 @@ Paste a TikTok link into ChatGPT or Claude and it can't watch it. With Trendhaus
 | [`tiktok-comment-mining`](skills/tiktok-comment-mining/SKILL.md) | Questions, objections and purchase intent in comments, turned into content | "What are people asking for in these comments? [link]" |
 | [`tiktok-sound-tracker`](skills/tiktok-sound-tracker/SKILL.md) | Who uses a sound, in which niches, and how the top uses perform | "Who is using this sound? [link]" |
 
+## See the output
+
+Real results, no account needed to read them:
+
+- [Video teardown](examples/video-teardown.md): a 497.5K-view investing explainer, 3.66× the creator's median, broken down beat by beat.
+
 ## Install
 
 **1. Connect the Trendhaus MCP server** (one sign-in, no TikTok login or API key): [start free with 100 actions](https://trendhaus.ai/start?ref=github), then follow the [setup docs](https://trendhaus.ai/docs?ref=github). Server URL: `https://mcp.trendhaus.ai/mcp`.
