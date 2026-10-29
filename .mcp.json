@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "trendhaus": {
+      "type": "http",
+      "url": "https://mcp.trendhaus.ai/mcp"
+    }
+  }
+}

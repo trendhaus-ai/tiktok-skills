@@ -1,0 +1,8 @@
+{
+  "name": "trendhaus",
+  "version": "1.0.0",
+  "description": "Live TikTok research for Claude: video teardowns, trends, hooks, competitor audits, comment mining and sound tracking, powered by the Trendhaus MCP server.",
+  "author": { "name": "Trendhaus", "email": "team@trendhaus.ai", "url": "https://trendhaus.ai" },
+  "homepage": "https://trendhaus.ai/docs?ref=github",
+  "keywords": ["tiktok", "tiktok-trends", "tiktok-analytics", "mcp", "social-media", "marketing"]
+}

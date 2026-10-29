@@ -1,0 +1,11 @@
+{
+  "name": "trendhaus",
+  "owner": { "name": "Trendhaus", "email": "team@trendhaus.ai" },
+  "plugins": [
+    {
+      "name": "trendhaus",
+      "source": "./",
+      "description": "Live TikTok research: video teardowns, trends, hooks, competitor audits, comment mining and sound tracking."
+    }
+  ]
+}

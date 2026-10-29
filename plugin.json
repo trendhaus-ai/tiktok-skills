@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "trendhaus",
+  "version": "1.0.0",
+  "description": "Live TikTok research: video teardowns, trends, hooks, competitor audits, comment mining and sound tracking, powered by the Trendhaus MCP server.",
+  "author": { "name": "Trendhaus", "email": "team@trendhaus.ai", "url": "https://trendhaus.ai" },
+  "homepage": "https://trendhaus.ai/docs?ref=github",
+  "license": "MIT",
+  "keywords": ["tiktok", "tiktok trends", "tiktok analytics", "mcp", "social media", "marketing"],
+  "extensions": {
+    "com.openai": {
+      "onboardingSkill": "./skills/get-started/SKILL.md",
+      "interface": {
+        "displayName": "Trendhaus",
+        "shortDescription": "TikTok research inside ChatGPT",
+        "category": "Data & Analytics",
+        "logo": "./assets/logo.png",
+        "composerIcon": "./assets/logo.png"
+      }
+    }
+  }
+}
